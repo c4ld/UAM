@@ -1,0 +1,17 @@
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\bin\Debug\net8.0-windows\Datos de pacientes.exe
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\bin\Debug\net8.0-windows\Datos de pacientes.deps.json
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\bin\Debug\net8.0-windows\Datos de pacientes.runtimeconfig.json
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\bin\Debug\net8.0-windows\Datos de pacientes.dll
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\bin\Debug\net8.0-windows\Datos de pacientes.pdb
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\obj\Debug\net8.0-windows\Datos_de_pacientes.Form1.resources
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\obj\Debug\net8.0-windows\Datos de pacientes.csproj.GenerateResource.cache
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\obj\Debug\net8.0-windows\Datos de pacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\obj\Debug\net8.0-windows\Datos de pacientes.AssemblyInfoInputs.cache
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\obj\Debug\net8.0-windows\Datos de pacientes.AssemblyInfo.cs
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\obj\Debug\net8.0-windows\Datos de pacientes.csproj.CoreCompileInputs.cache
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\obj\Debug\net8.0-windows\Datos de pacientes.sourcelink.json
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\obj\Debug\net8.0-windows\Datos de pacientes.dll
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\obj\Debug\net8.0-windows\refint\Datos de pacientes.dll
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\obj\Debug\net8.0-windows\Datos de pacientes.pdb
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\obj\Debug\net8.0-windows\Datos de pacientes.genruntimeconfig.cache
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Datos de pacientes\Datos de pacientes\obj\Debug\net8.0-windows\ref\Datos de pacientes.dll

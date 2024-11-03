@@ -1,4 +1,5 @@
-﻿namespace Datos_de_pacientes
+﻿
+namespace Datos_de_pacientes
 {
     partial class Form1
     {
@@ -39,13 +40,13 @@
             radioButton2 = new RadioButton();
             label5 = new Label();
             panel1 = new Panel();
-            richTextBox1 = new RichTextBox();
+            Alergias = new RichTextBox();
             checkBox1 = new CheckBox();
             panel2 = new Panel();
-            richTextBox2 = new RichTextBox();
+            MotivoConsulta = new RichTextBox();
             label8 = new Label();
             label7 = new Label();
-            comboBox1 = new ComboBox();
+            Departamento = new ComboBox();
             label6 = new Label();
             button1 = new Button();
             button2 = new Button();
@@ -147,7 +148,7 @@
             // 
             // panel1
             // 
-            panel1.Controls.Add(richTextBox1);
+            panel1.Controls.Add(Alergias);
             panel1.Controls.Add(checkBox1);
             panel1.Controls.Add(label5);
             panel1.Controls.Add(radioButton2);
@@ -165,13 +166,14 @@
             panel1.Size = new Size(296, 238);
             panel1.TabIndex = 4;
             // 
-            // richTextBox1
+            // Alergias
             // 
-            richTextBox1.Location = new Point(9, 161);
-            richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(276, 62);
-            richTextBox1.TabIndex = 6;
-            richTextBox1.Text = "";
+            Alergias.Location = new Point(9, 161);
+            Alergias.Name = "Alergias";
+            Alergias.Size = new Size(276, 62);
+            Alergias.TabIndex = 6;
+            Alergias.Text = "";
+            Alergias.TextChanged += Alergias_TextChanged;
             // 
             // checkBox1
             // 
@@ -182,26 +184,27 @@
             checkBox1.TabIndex = 10;
             checkBox1.Text = "Alergias";
             checkBox1.UseVisualStyleBackColor = true;
+            checkBox1.CheckedChanged += checkBox1_CheckedChanged_1;
             // 
             // panel2
             // 
-            panel2.Controls.Add(richTextBox2);
+            panel2.Controls.Add(MotivoConsulta);
             panel2.Controls.Add(label8);
             panel2.Controls.Add(label7);
-            panel2.Controls.Add(comboBox1);
+            panel2.Controls.Add(Departamento);
             panel2.Controls.Add(label6);
             panel2.Location = new Point(314, 12);
             panel2.Name = "panel2";
             panel2.Size = new Size(281, 238);
             panel2.TabIndex = 6;
             // 
-            // richTextBox2
+            // MotivoConsulta
             // 
-            richTextBox2.Location = new Point(16, 98);
-            richTextBox2.Name = "richTextBox2";
-            richTextBox2.Size = new Size(247, 125);
-            richTextBox2.TabIndex = 11;
-            richTextBox2.Text = "";
+            MotivoConsulta.Location = new Point(16, 98);
+            MotivoConsulta.Name = "MotivoConsulta";
+            MotivoConsulta.Size = new Size(247, 125);
+            MotivoConsulta.TabIndex = 11;
+            MotivoConsulta.Text = "";
             // 
             // label8
             // 
@@ -221,13 +224,15 @@
             label7.TabIndex = 13;
             label7.Text = "Departamento";
             // 
-            // comboBox1
+            // Departamento
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(16, 48);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(247, 23);
-            comboBox1.TabIndex = 12;
+            Departamento.FormattingEnabled = true;
+            Departamento.Items.AddRange(new object[] { "Cardiología", "Pedriatría", "Emergencias", "Neurología" });
+            Departamento.Location = new Point(16, 48);
+            Departamento.Name = "Departamento";
+            Departamento.Size = new Size(247, 23);
+            Departamento.TabIndex = 12;
+            Departamento.Text = "Seleccionar";
             // 
             // label6
             // 
@@ -256,6 +261,8 @@
             button2.TabIndex = 8;
             button2.Text = "Limpiar";
             button2.UseVisualStyleBackColor = true;
+            this.label2.Click += new System.EventHandler(this.label2_Click);
+
             // 
             // button3
             // 
@@ -286,6 +293,31 @@
             ResumeLayout(false);
         }
 
+        private void Alergias_TextChanged(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void checkBox1_CheckedChanged_1(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
         #endregion
 
         private TextBox Nombre;
@@ -299,13 +331,13 @@
         private RadioButton radioButton2;
         private Label label5;
         private Panel panel1;
-        private RichTextBox richTextBox1;
+        private RichTextBox Alergias;
         private CheckBox checkBox1;
         private Panel panel2;
-        private RichTextBox richTextBox2;
+        private RichTextBox MotivoConsulta;
         private Label label8;
         private Label label7;
-        private ComboBox comboBox1;
+        private ComboBox Departamento;
         private Label label6;
         private Button button1;
         private Button button2;

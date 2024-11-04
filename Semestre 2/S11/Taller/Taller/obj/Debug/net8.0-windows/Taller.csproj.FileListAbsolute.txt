@@ -1,0 +1,17 @@
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\bin\Debug\net8.0-windows\Taller.exe
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\bin\Debug\net8.0-windows\Taller.deps.json
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\bin\Debug\net8.0-windows\Taller.runtimeconfig.json
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\bin\Debug\net8.0-windows\Taller.dll
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\bin\Debug\net8.0-windows\Taller.pdb
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\obj\Debug\net8.0-windows\Taller.Form1.resources
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\obj\Debug\net8.0-windows\Taller.csproj.GenerateResource.cache
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\obj\Debug\net8.0-windows\Taller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\obj\Debug\net8.0-windows\Taller.AssemblyInfoInputs.cache
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\obj\Debug\net8.0-windows\Taller.AssemblyInfo.cs
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\obj\Debug\net8.0-windows\Taller.csproj.CoreCompileInputs.cache
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\obj\Debug\net8.0-windows\Taller.sourcelink.json
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\obj\Debug\net8.0-windows\Taller.dll
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\obj\Debug\net8.0-windows\refint\Taller.dll
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\obj\Debug\net8.0-windows\Taller.pdb
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\obj\Debug\net8.0-windows\Taller.genruntimeconfig.cache
+C:\Users\c4ld\Desktop\UAM\Semestre 2\S11\Taller\Taller\obj\Debug\net8.0-windows\ref\Taller.dll

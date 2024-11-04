@@ -185,6 +185,7 @@ namespace Datos_de_pacientes
             checkBox1.Text = "Alergias";
             checkBox1.UseVisualStyleBackColor = true;
             checkBox1.CheckedChanged += checkBox1_CheckedChanged_1;
+            checkBox1.CheckStateChanged += checkBox1_CheckedChanged_1;
             // 
             // panel2
             // 
@@ -261,8 +262,7 @@ namespace Datos_de_pacientes
             button2.TabIndex = 8;
             button2.Text = "Limpiar";
             button2.UseVisualStyleBackColor = true;
-            this.label2.Click += new System.EventHandler(this.label2_Click);
-
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -272,6 +272,7 @@ namespace Datos_de_pacientes
             button3.TabIndex = 9;
             button3.Text = "Salir";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // Form1
             // 
@@ -295,12 +296,16 @@ namespace Datos_de_pacientes
 
         private void Alergias_TextChanged(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
         }
 
         private void checkBox1_CheckedChanged_1(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+             // Establece visibilidad de Alergias en función del estado de checkBox1
+    Alergias.Visible = checkBox1.Checked;
+    if (!Alergias.Visible) // Si Alergias no es visible, limpiar el texto
+    {
+        Alergias.Clear();
+    }
         }
 
         private void label5_Click(object sender, EventArgs e)
